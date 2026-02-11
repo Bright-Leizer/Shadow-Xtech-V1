@@ -1,13 +1,13 @@
 {
-  "name": "DML-MD",
-  "description": "⚡ A lightning-fast WhatsApp bot with multi-device support, built on Node.js & Baileys.",
-  "website": "https://github.com/MLILA17/DML-MD#readme",
-  "repository": "https://github.com/MLILA17/DML-MD.git",
+  "name": "Shadow-Xtech-V1",
+  "description": "🤖 Ultra-speed WhatsApp bot with multi-device power 🌐, built on Node.js & Baileys ⚙️✨ — lightning-fast ⚡, smart 🧠, and unstoppable 🚀",
+  "website": "https://github.com/Bright-Leizer/Shadow-Xtech-V1#readme",
+  "repository": "https://github.com/Bright-Leizer/Shadow-Xtech-V1.git",
   "logo": "https://files.catbox.moe/juhq1l.jpg",
   "success_url": "/",
   "keywords": ["whatsapp-bot", "baileys", "nodejs", "heroku", "dml-md"],
   "scripts": {
-    "postdeploy": "echo '🚀 Dml-MD has been successfully deployed!'"
+    "postdeploy": "echo '⚡ Shadow-Xtech-V1 is live and running at full speed! 💻 Ready for action! 🌐'"
   },
   "build": {
     "languages": ["nodejs"]
