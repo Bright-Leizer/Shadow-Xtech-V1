@@ -1,53 +1,52 @@
 <h1 align="center">
-  👻 SHADOW-XTECH 👻
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=FF0000&center=true&vCenter=true&width=900&height=120&lines=SHADOW-XTECH" />
 </h1>
 
+<h3 align="center">🚀 The Ultimate Multi-Device WhatsApp Bot</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=60&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=SHADOW-XTECH;ULTIMATE+WHATSAPP+BOT;FAST+%7C+SECURE+%7C+RELIABLE;POWERED+BY+BAILEYS" />
-</p>
-
-<p align="center">
-  🚀 Multi-Device Supported <br>
-  ⚡ Lightning Fast Performance <br>
-  🔐 Advanced Security Features <br>
-  🧩 Plugin Based System <br>
+⚡ Fast • 🔐 Secure • 🤖 Smart • 💎 Reliable
 </p>
 
 ---
 
-## 🌟 ABOUT SHADOW-XTECH
+## 👑 SHADOW-XTECH BY BLACK TAPPY 🎲
 
-> **SHADOW-XTECH** is a powerful, modern and feature-packed WhatsApp Multi-Device bot built with **Baileys**.  
-Designed for speed, stability and automation.
-
-✔ Anti-Delete  
-✔ Auto Reaction  
-✔ Auto Status View  
-✔ Session Restore  
-✔ Media Downloader  
-✔ Football API Integration  
-✔ Plugin Command System  
-✔ And Many More 🔥
+> **Updated with the Latest Features & Optimizations**
 
 ---
 
-## 📲 CONTACT OWNER
+## 🌟 FEATURES
+
+- ✅ Multi-Device Support  
+- ⚡ Super Fast Performance  
+- 🔒 Anti-Delete System  
+- 🤖 Auto Reactions  
+- 📢 Auto Status & Bio Update  
+- 🔗 Anti-Link Protection  
+- 🎵 Media & Sticker Tools  
+- 🔥 Plugin-Based Command System  
+- 💾 Session Restore (MEGA Supported)  
+- 📡 Live Presence Control  
+
+---
+
+## 📞 CONTACT OWNER
 
 <p align="center">
   <a href="https://wa.me/254759000340">
-    <img src="https://img.shields.io/badge/WHATSAPP-OWNER-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    <img src="https://img.shields.io/badge/WhatsApp-Owner-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="https://chat.whatsapp.com/GbpVWoHH0XLHOHJsYLtbjH">
-    <img src="https://img.shields.io/badge/WHATSAPP-GROUP-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white">
+    <img src="https://img.shields.io/badge/Join-Community-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://github.com/Tappy-Black/SHADOW-XTECH">
-    <img src="https://img.shields.io/badge/GITHUB-REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://github.com/Tappy-Black">
+    <img src="https://img.shields.io/badge/GitHub-Tappy--Black-000000?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 ---
 
-## 📊 PROJECT STATS
+## 📊 REPOSITORY STATS
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Tappy-Black?style=for-the-badge&logo=github">
@@ -58,59 +57,59 @@ Designed for speed, stability and automation.
 
 ---
 
-# 🚀 DEPLOY SHADOW-XTECH
-
-## 1️⃣ Fork Repository
+## 🍴 STEP 1 — FORK REPOSITORY
 
 <p align="center">
   <a href="https://github.com/Tappy-Black/SHADOW-XTECH/fork">
-    <img src="https://img.shields.io/badge/FORK-NOW-FF0000?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/FORK-SHADOW XTECH-green?style=for-the-badge&logo=github">
   </a>
 </p>
 
 ---
 
-## 🔐 Get Pairing Code
+## 🔐 STEP 2 — GET PAIRING CODE
 
 <p align="center">
   <a href="https://cloud-tech-pair-site.onrender.com/pair">
-    <img src="https://img.shields.io/badge/GET-PAIRING_CODE-000000?style=for-the-badge&logo=codefactor&logoColor=yellow">
+    <img src="https://img.shields.io/badge/Get-Pairing Code-black?style=for-the-badge&logo=codefactor&logoColor=yellow"/>
   </a>
 </p>
 
 ---
 
-## ☁ Deploy on Heroku
+## 🚀 STEP 3 — DEPLOY
+
+### Deploy on Heroku
 
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/Tappy-Black/SHADOW-XTECH/tree/main">
-    <img src="https://img.shields.io/badge/DEPLOY-ON_HEROKU-7952B3?style=for-the-badge&logo=heroku&logoColor=white">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/Tappy-Black/SHADOW-XTECH">
+    <img src="https://img.shields.io/badge/Deploy-Heroku-7952B3?style=for-the-badge&logo=heroku&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 👑 CREDITS
+## 🧠 DEVELOPERS & CREDITS
 
-### 👻 Owner
-- **Black-Tappy**
-- Creator of SHADOW-XTECH
+### 👑 Owner
+- **Black Tappy**
+- Creator of XEON-XMD
 
 ### 🤝 Contributors
-- **POPKID** – Plugin development support
+- **POPKID** – Plugin Development Support
 
 ---
 
 ## 🔒 FINAL NOTE
 
-If you face any issues:
+If you encounter any issues:
+- Open a GitHub issue  
+- Contact via WhatsApp community  
 
-• Open a GitHub Issue  
-• Join the WhatsApp Community  
+⭐ Don’t forget to Star the repo if you love SHADOW-XTECH!
 
 ---
 
 <p align="center">
-  𝗦𝗛𝗔𝗗𝗢𝗪 𝗫𝗧𝗘𝗖𝗛 𝗕𝗬 𝗕𝗹𝗮𝗰𝗸-𝗧𝗮𝗽𝗽𝘆 🎲  
-  Made With ❤️ + JavaScript
+🔥 Built with Power. Maintained with Passion. 👻
 </p>
