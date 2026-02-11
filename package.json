@@ -1,5 +1,5 @@
 {
-  "name": "SHAFOW-XTECH",
+  "name": "SHADOW-XTECH-V1",
   "version": "2.0.0",
   "description": "WhatsApp Multi Device Bot",
   "main": "index.js",
@@ -20,7 +20,7 @@
     "bot-md",
     "whatsapp-multi-device"
   ],
-  "base": "https://github.com/Bright-Leizer/Shadow-Xtech-V1,
+  "base": "https://github.com/MLILA17/DML-MD",
   "author": "Black-Tappy",
   "license": "MIT",
   "dependencies": {
@@ -105,10 +105,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bright-Leizer/Shadow-Xtech-V1.git"
+    "url": "git+https://github.com/MLILA17/DML-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/Bright-Leizer/Shadow-Xtech-V1/issues"
+    "url": "https://github.com/MLILA17/DML-MD/issues"
   },
-  "homepage": "https://github.com/Bright-Leizer/Shadow-Xtech-V1#readme"
+  "homepage": "https://github.com/MLILA17/DML-MD#readme"
 }
