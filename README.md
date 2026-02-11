@@ -9,7 +9,7 @@
 
 ---
 
-## 👑 SHADOW-XTECH BY BLACK TAPPY 🎲
+## 👑 SHADOW-XTECH-V1 BY BLACK-TAPPY 🎲
 
 > **Updated with the Latest Features & Optimizations**
 
@@ -36,11 +36,11 @@
   <a href="https://wa.me/254759000340">
     <img src="https://img.shields.io/badge/WhatsApp-Owner-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://chat.whatsapp.com/GbpVWoHH0XLHOHJsYLtbjH">
+  <a href="https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10">
     <img src="https://img.shields.io/badge/Join-Community-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://github.com/Tappy-Black">
-    <img src="https://img.shields.io/badge/GitHub-Tappy--Black-000000?style=for-the-badge&logo=github"/>
+  <a href="https://github.com/Bright-Leizer">
+    <img src="https://img.shields.io/badge/GitHub-Bright--Leizer-000000?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
@@ -49,10 +49,10 @@
 ## 📊 REPOSITORY STATS
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Tappy-Black?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/github/stars/Tappy-Black/SHADOW-XTECH?style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/Tappy-Black/SHADOW-XTECH?style=for-the-badge">
-  <img src="https://img.shields.io/github/repo-size/Tappy-Black/SHADOW-XTECH?style=for-the-badge">
+  <img src="https://img.shields.io/github/followers/Bright-Leizer?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/github/stars/Bright-Leizer/Shadow-Xtech-V1?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/Bright-Leizer/Shadow-Xtech-V1?style=for-the-badge">
+  <img src="https://img.shields.io/github/repo-size/Bright-Leizer/Shadow-Xtech-V1?style=for-the-badge">
 </p>
 
 ---
@@ -60,7 +60,7 @@
 ## 🍴 STEP 1 — FORK REPOSITORY
 
 <p align="center">
-  <a href="https://github.com/Tappy-Black/SHADOW-XTECH/fork">
+  <a href="https://github.com/Bright-Leizer/Shadow-Xtech-V1/fork">
     <img src="https://img.shields.io/badge/FORK-SHADOW XTECH-green?style=for-the-badge&logo=github">
   </a>
 </p>
@@ -70,7 +70,7 @@
 ## 🔐 STEP 2 — GET PAIRING CODE
 
 <p align="center">
-  <a href="https://cloud-tech-pair-site.onrender.com/pair">
+  <a href="https://session-idqr.onrender.com/pair">
     <img src="https://img.shields.io/badge/Get-Pairing Code-black?style=for-the-badge&logo=codefactor&logoColor=yellow"/>
   </a>
 </p>
@@ -82,7 +82,7 @@
 ### Deploy on Heroku
 
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/Tappy-Black/SHADOW-XTECH">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/Bright-Leizer/Shadow-Xtech-V1">
     <img src="https://img.shields.io/badge/Deploy-Heroku-7952B3?style=for-the-badge&logo=heroku&logoColor=white"/>
   </a>
 </p>
@@ -96,7 +96,7 @@
 - Creator of XEON-XMD
 
 ### 🤝 Contributors
-- **POPKID** – Plugin Development Support
+- **Tappy-Black** – Plugin Development Support
 
 ---
 
